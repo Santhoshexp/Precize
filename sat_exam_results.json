@@ -1,0 +1,38 @@
+{
+    "Santhosh": {
+        "Name": "Santhosh",
+        "Address": "Choolai",
+        "City": "Chennai",
+        "Country": "India",
+        "Pincode": "600112",
+        "SAT Score": 92.0,
+        "Passed": "Pass"
+    },
+    "x": {
+        "Name": "x",
+        "Address": "yyy",
+        "City": "xxxxx",
+        "Country": "india",
+        "Pincode": "iop",
+        "SAT Score": 98.0,
+        "Passed": "Pass"
+    },
+    "raj": {
+        "Name": "raj",
+        "Address": "jaipur",
+        "City": "chennai",
+        "Country": "india",
+        "Pincode": "456789",
+        "SAT Score": 23.0,
+        "Passed": "Fail"
+    },
+    "Rani": {
+        "Name": "Rani",
+        "Address": "periyamet",
+        "City": "Chennai",
+        "Country": "India",
+        "Pincode": "98798",
+        "SAT Score": 23.0,
+        "Passed": "Fail"
+    }
+}
