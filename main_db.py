@@ -4,7 +4,7 @@ import json
 from pymongo import MongoClient
 
 
-MONGO_URI = 'mongodb+srv://sandy:sandy234@cluster1.nhb6kt0.mongodb.net/'
+MONGO_URI = 'mongodb+srv://sandy:<password>@cluster1.nhb6kt0.mongodb.net/'
 DB_NAME = 'sat_records'
 COLLECTION_NAME = 'records'
 
